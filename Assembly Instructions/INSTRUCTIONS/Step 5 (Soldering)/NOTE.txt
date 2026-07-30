@@ -1,0 +1,3 @@
+Take your time here, since it is very easy to overheat the banana jacks or transmitter/receiver while soldering which can melt the plastic around both of them.
+
+Also you will need to trim the prongs of the receiver/transmitter down so the shroud can fit on the stand so try to solder close to the body of the receiver/transmitter.

@@ -1,0 +1,19 @@
+3D Print Settings
+
+All prints use standard print settings for Bambu A1 unless stated
+
+----------
+
+Wall Loops: 4
+
+Sparse Density Infill: 30%
+
+Sparse Infill Pattern: Cubic
+
+Enable Support: OFF
+
+----------
+
+Notes
+
+Once again this print likes to lift off of the plate so using a glue stick on the plate helps a lot.

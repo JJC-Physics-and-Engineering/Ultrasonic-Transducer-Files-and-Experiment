@@ -1,0 +1,67 @@
+In Order to Assemble a Transmitter or Receiver You Need to Have the Following Tools, Parts, and Skills
+
+--------------------------------------------------
+
+SKILLS
+
+--------------------------------------------------
+
+Basic proficiency with a soldering iron
+
+Basic use of heat inserts
+
+Patience
+
+--------------------------------------------------
+
+TOOLS
+
+--------------------------------------------------
+
+Soldering Iron
+
+Solder
+
+Heat insert insertion tip
+
+Curved needle nose pliers (Optional)
+
+Some type of adhesive (either Super glue, Hot glue, or PLA glue)
+
+Wire stripers
+
+--------------------------------------------------
+
+Parts
+
+--------------------------------------------------
+
+Transmitter or Receiver Stand
+
+Transmitter or Receiver
+
+Banana Jacks with nuts
+
+18 gauge wire
+
+Shroud
+
+Heat Inserts
+
+--------------------------------------------------
+
+Notes
+
+--------------------------------------------------
+
+I will include a visual step by step guide in the form of txt and png files labeled in numerical order
+
+Just a reminder that these probes are a set so you MUST have a 25Khz receiver paired with a 25Khz transmitter and the same applies to the 40Khz receivers and transmitters.
+
+--------------------------------------------------
+
+IMPORTANT
+
+--------------------------------------------------
+
+WHEREVER YOU SEE A 4mm HOLE ON ANY PART, IT IS DESIGNED FOR A HEAT INSERT AND THUMB SCREW TO ALLOW YOU TO SECURE THE PART TO A RAIL/RULER.

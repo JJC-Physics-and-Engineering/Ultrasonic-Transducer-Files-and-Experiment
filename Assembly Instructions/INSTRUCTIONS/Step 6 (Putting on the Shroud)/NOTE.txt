@@ -1,0 +1,5 @@
+Make sure that your specific transmitter/receiver has its corresponding shroud so it is easy to tell which probes are which at a glance.
+
+I used hot glue to secure the shroud to the stand so It could be serviced in the future. If serviceability isn't a concern to you feel free to superglue or PLA glue the two parts together
+
+If using hot glue I HIGHLY recommend the Stanley hot glue sticks since they seem to work the best in my opinion

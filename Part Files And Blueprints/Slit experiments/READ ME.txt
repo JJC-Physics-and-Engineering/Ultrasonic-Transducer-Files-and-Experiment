@@ -1,0 +1,11 @@
+In Regards to the slit experiments:
+
+I decided to include the files for the slit experiments since I A) already made them, and B) They are a good introduction to how our probes work. However, I am unable to provide clear instructions on the setup and settings of the laser cutter that made them since unlike 3D printers, laser cutters tend to use their own proprietary software that makes any instructions here pointless for most users. So I am unable to provide clear instructions but I am able to provide the files used, what materials we used, and photo of the finished product. The included DXF files should be able to be imported to most laser cutting software pretty easily.
+
+MATERIAL:
+
+20'' X 12'' X 1/8'' Plywood
+
+NOTES:
+
+Try to get a plywood with as little resin as possible since high amounts of resin are harder to cut and produce MUCH more smoke.
